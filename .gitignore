@@ -1,0 +1,12 @@
+node_modules
+temp
+tmp
+Desktop.ini
+Thumbs.db
+*.bak
+*.log
+*.tmp
+.DS_Store
+.idea
+.svn
+.vscode
